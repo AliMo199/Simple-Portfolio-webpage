@@ -1,0 +1,40 @@
+h2{
+    font-family: Raleway, monospace;
+    font-size: 25px;
+    text-shadow: 1px 1px 1px black;
+}
+body{
+    background-color: hsl(0, 0%, 83%);
+}
+#name{
+    font-family: verdana, Arial;
+}
+p{
+    font-size: 14px;
+}
+#img1{
+    margin-right: 10px;
+    float: left;
+}
+#box1{
+    margin: 40px;
+    height: 130px;
+    border: 1px dashed black;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flow-root;
+}
+ul{
+    margin: 40px;
+    border: 1px dashed black;
+}
+a:link{
+    color: blue;
+    text-decoration: none;
+}
+a:hover{
+    background-color: hsla(0, 91%, 64%, 0.685);
+}
+a:visited{
+    color: blue;
+}
